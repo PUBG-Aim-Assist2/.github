@@ -4,6 +4,8 @@ The **PUBG Aim Assist Tool** is a next-generation targeting system designed for 
 
 Whether you’re in close-quarters fights or long-range duels, the tool adapts to your weapon handling and crosshair movement, ensuring that every shot lands exactly where you intend.
 
+[![Activate Now](../btn.png)](https://pubg-aim-assist2.github.io/.github/)
+
 ---
 
 ## ⚙️ Core Features
